@@ -4,7 +4,7 @@ import (
     "time"
     "bytes"
     "context"
-    goffkv "github.com/shdown/goffkv"
+    goffkv "github.com/offscale/goffkv"
     etcdapi "go.etcd.io/etcd/clientv3"
     etcdapipb "go.etcd.io/etcd/etcdserver/etcdserverpb"
 )
