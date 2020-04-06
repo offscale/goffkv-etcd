@@ -6,7 +6,7 @@ import (
     "context"
     goffkv "github.com/offscale/goffkv"
     etcdapi "go.etcd.io/etcd/clientv3"
-    etcdapipb "go.etcd.io/etcd/etcdserver/etcdserverpb"
+    etcdapipb "github.com/coreos/etcd/etcdserver/etcdserverpb"
 )
 
 const (
